@@ -89,6 +89,16 @@
                         More information
                     </div>
 
+                    <ol>
+                        <li>Take an image of a food that you are eating. This can be a meal, or a specific food .</li>
+                        <li>Our image recognition software will then detect the foods that are seen in your picture.</li>
+                        <li>Then, we check those ingredients against a large database of foods that classify each a great choice, a poor choice, or
+				one that may require more research.</li>
+                        <li>In a simple way, from uploading a picture of your food and the click of a button, you'll know how to do your part to contribute
+				to agricultural sustainability.</li>
+                        <li>In the long term, be sure to keep these habits going! It's important that we start moving in the right direction to ensure
+				that we are doing everything we can to keep our planet green. </li>
+                    </ol>
                     <div class = "text-center">
                         <br>
                     <a href="index.php" class="btn btn-light" >Start</a>
