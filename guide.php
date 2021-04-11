@@ -110,22 +110,6 @@
     
     <br>
     <div data-aos="fade-in" data-aos-duration="1500" class = "card container card-style2" > 
-        
-        <div class = "card-body">
-            <div class = "card-title">
-                Who We Are
-            </div>
-            
-            <p>Selected Grade 10.<br>Courses taken already: Algebra I, Geometry, and Algebra II.<br>Planned courses: No planned courses.</p>
-            
-            <p> Results:<br>
-            In grade 11 you may take the following courses: Statistics, Trigonometry, PreCalculus.<br>
-            In grade 12 you may take the following courses: AP Statistics, Calculus, AP Calculus AB.
-            </p>
-            <p>Note that courses are not repeatedly printed. For example, if this student chose to take PreCalculus in grade 11, 
-                they would still be able to take Statistics in grade 12. 
-            </p>
-        </div>
     </div>
     <br>
     </div>
