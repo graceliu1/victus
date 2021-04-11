@@ -129,15 +129,13 @@
         
         <div class = "card-body">
             <div class = "card-title">
-                FILL OUT THE FOLLOWING FORM
+                Food sustainability
             </div>
             <p class = "large-paragraph"> 
-            Proin luctus, urna vitae pharetra iaculis, sem lectus pulvinar mauris, vel pharetra 
-            ipsum ante consectetur libero. Aenean pellentesque sed enim at vulputate. Integer 
-            vehicula aliquam mi, ac dictum lacus pretium in. Nam ut urna in risus ornare condimentum 
-            at nec justo. Cras mattis est nisi, euismod consequat erat efficitur feugiat. Suspendisse
-             potenti. Nunc sit amet mattis erat. Quisque et lacus nec nunc pellentesque ultrices 
-             eu sit amet enim. Quisque et posuere ligula, et aliquet ligula.
+            The global food system accounts for around 26% of all greenhouse gas
+            emissions, according to Our World in Data.  This threatens the future 
+            of our planet, and the rising population will only exacerbate this 
+            issue. How can we fix this?
             </p>
             
         </div>
@@ -153,21 +151,22 @@
         <div class = "card-body card-img-overlay overlay-content" style = "padding-left: 30px;"> 
         <br>
         <div class = "card-title">
-            Two main options
+        The solution
         </div>
 
         <p class = "large-paragraph">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque interdum est eget commodo tempus. Nam porta purus in quam egestas, 
-        non pharetra lacus ullamcorper. Ut facilisis maximus nulla sed hendrerit. Vestibulum erat tortor,
-         scelerisque nec tortor sit amet, porta interdum leo. Aliquam erat volutpat. Class aptent taciti 
-         sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean imperdiet vulputate 
-         venenatis. Mauris a turpis non magna vulputate faucibus vitae in dui. Duis in metus a sem porttitor
-          iaculis in at massa. Fusce quis quam porttitor, cursus enim vitae, euismod nibh. Pellentesque 
-          habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam pharetra 
-          justo a elementum rhoncus. Nunc in ex ut erat bibendum congue. Nulla quis blandit metus.
+        The origin of our name: separately, "In Victus" means "In Food" in Latin. 
+        But put together, Invictus means Invincible. We believe our product will 
+        revolutionize the way people eat. The first stage is to launch it as a 
+        web application. 
         </p>
         <p class = "large-paragraph">
-        Nunc gravida purus mollis, varius arcu nec, vestibulum velit. Vivamus justo ipsum, laoreet a laoreet
+        Our approach is two-sided. First, we're actively raising awareness. Invictus
+         allows users to instantly understand whether a food item is sustainable 
+         for the environment based on a variety of factors.  Second, we're creating long-term habits.
+         Through a simple but effective interface, users gain knowledge of the 
+         impact of their food habits on the environment. This motivates them 
+         to seek new, healthier alternatives that are more beneficial to everyone. 
         </p>
         </div> 
     </div>
