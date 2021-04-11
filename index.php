@@ -55,6 +55,7 @@
         button {
             all: unset;
         }
+
         /*****************/
 
         /**CARD STYLES CSS**/
@@ -102,7 +103,7 @@
                         optional. After you click submit, a possible course pathway will be generated for you based on your input. 
                         
                         You must click "Reset" if you want to change any options.--> 
-                    <p class = "large-paragraph">But do you know what you're actually eating?
+                    <p class = "large-paragraph">But do you know the true impact of every bite?
                     </p>
                     <p class = "large-paragraph"> According to a report on the environmental impacts of food production, 
                         26% of global greenhouse gas emissions are caused by food. 
@@ -184,7 +185,7 @@
                     common QUESTIONS
                 </div>
                 <div class="accordion" id="accordion-tab-1">
-                    <div class="card">
+                    <div class="card bg-light">
                         <div class="card-header" id="accordion-tab-1-heading-1">
                             <button class="btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-1-content-1" aria-expanded="false" aria-controls="accordion-tab-1-content-1">
                                 Q: What are the criteria for the food based on? </button>
@@ -196,42 +197,41 @@
                             </div>
                         </div>
                     </div>
-                    <div class="card">
+                    <div class="card bg-light">
                         <div class="card-header" id="accordion-tab-1-heading-2">
                             <button class="btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-1-content-2" aria-expanded="false" aria-controls="accordion-tab-1-content-2">
-                            Q: In nec sollicitudin magna, ac convallis tellus. </button>
+                            Q: What does Invictus mean? </button>
                         </div>
                         <div class="collapse" id="accordion-tab-1-content-2" aria-labelledby="accordion-tab-1-heading-2" data-parent="#accordion-tab-1">
                             <div class="card-body">
-                            <p>Quisque blandit nisi metus, suscipit sollicitudin odio elementum eu. 
-                                </p>
-                                <p><strong>Example: </strong>If you have taken Algebra 2, there is no need to take Advanced Algebra 2.</p>
+                            <p>Separately, "In Victus" means "In Food" in Latin. But put together, Invictus means Invincible. </p>
                             </div>
                         </div>
                     </div>
-                    <div class="card">
+                    <div class="card bg-light">
                         <div class="card-header" id="accordion-tab-1-heading-3">
                             
                                 <button class="btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-1-content-3" aria-expanded="false" aria-controls="accordion-tab-1-content-3">
-                                    Q: usce egestas, odio vitae ullamcorper sodales, velit neque porta velit, vel mattis leomauris posuere tortor. </button>
+                                    Q: How can I use the image processing aspect of Invictus? </button>
                             
                         </div>
                         <div class="collapse" id="accordion-tab-1-content-3" aria-labelledby="accordion-tab-1-heading-3" data-parent="#accordion-tab-1">
                             <div class="card-body">
-                                <p>Praesent eleifend libero quis massa vestibulum consequat. Vestibulum et mattis</p>
+                                <p>Feel free to download the source code at our Github repository. The READ.ME file has 
+                                more information.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="card">
+                    <div class="card bg-light">
                         <div class="card-header" id="accordion-tab-1-heading-4">
                             
                                 <button class="btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-1-content-4" aria-expanded="false" aria-controls="accordion-tab-1-content-4">
-                                    Q: turpis, sit amet mattis nisl. Duis bibendum semper enim non tempor. Donec vel cursus magna, sed egestas risus. Vestibulum auctor massa ut quam varius, sed luctus justo ultricies.</button>
+                                    Q: I'm interested in learning more. How can I help?</button>
                            
                         </div>
                         <div class="collapse" id="accordion-tab-1-content-4" aria-labelledby="accordion-tab-1-heading-4" data-parent="#accordion-tab-1">
                             <div class="card-body">
-                                <p> Duis eu elit turpis. Aliquam aliquet vitae tortor ut tempus. </p>
+                                <p> Contact either Grace or Ria. </p>
                             </div>
                         </div>
                     </div>
@@ -239,12 +239,13 @@
                         <div class="card-header" id="accordion-tab-1-heading-5">
                             
                                 <button class="btn-link" type="button" data-toggle="collapse" data-target="#accordion-tab-1-content-5" aria-expanded="false" aria-controls="accordion-tab-1-content-5">
-                                    Q: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam blandit massa quis mi semper pulvinar. </button>
+                                    Q: I want to leave a longer message. How can I do this? </button>
                            
                         </div>
                         <div class="collapse" id="accordion-tab-1-content-5" aria-labelledby="accordion-tab-1-heading-5" data-parent="#accordion-tab-1">
                             <div class="card-body">
-                                <p>Praesent tortor massa, dignissim eu mauris scelerisque, pharetra scelerisque velit. Mauris rutrum lacus </p>
+                                <p>Feel free to fill out the contact form on our Contact page and we'll try to get 
+                                back to you within 72 business hours.</p>
                             </div>
                         </div>
                     </div>

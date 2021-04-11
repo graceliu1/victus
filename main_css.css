@@ -19,7 +19,7 @@ p {
     border: 0;
 }
 .image-card {
-    min-height: 800px;
+    min-height: 600px;
     background-image: linear-gradient(
             rgba(0, 0, 0, 0),
             rgba(0, 0, 0, 0)
