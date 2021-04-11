@@ -86,18 +86,9 @@
                 
                 <div class = "card-body">
                     <div class = "card-title">
-                        Who We Are
+                        More information
                     </div>
 
-                    <ol>
-                        <li>Enter your grade in the first section of the form.</li>
-                        <li>Select <strong>all</strong> of the math courses you have taken so far.</li>
-                        <li>The planned courses section is optional. The application will verify if these courses are possible 
-                            to take next school year based on your current qualifications.</li>
-                        <li>Click "Submit" to see your pathway.</li>
-                        <li>If you want to change your input, click "Reset". </li>
-                        <li>Your results will <strong>not</strong> be saved. Please take a screenshot.</li>
-                    </ol>
                     <div class = "text-center">
                         <br>
                     <a href="index.php" class="btn btn-light" >Start</a>
@@ -112,8 +103,17 @@
         
         <div class = "card-body">
             <div class = "card-title">
-              
+              platforms used
+            </div>
             <p>
+            Our product works by using pre-trained models for object detection
+             to recognize foods from images. The ingredients and foods that 
+             were detected in the user's meals are then checked across a 
+             database of foods. Ultimately, the site provides feedback 
+             on what foods are sustainable, which ones are not, and which
+              ones might require some more research. The programming languages and 
+              platforms used include: HTML, CSS, PHP, Bootstrap, Heroku, Python, and 
+              Clarifai API.
             </p>
         </div>
     </div>
