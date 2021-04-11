@@ -90,13 +90,14 @@
                     </div>
 
                     <ol>
-                        <li>Enter your grade in the first section of the form.</li>
-                        <li>Select <strong>all</strong> of the math courses you have taken so far.</li>
-                        <li>The planned courses section is optional. The application will verify if these courses are possible 
-                            to take next school year based on your current qualifications.</li>
-                        <li>Click "Submit" to see your pathway.</li>
-                        <li>If you want to change your input, click "Reset". </li>
-                        <li>Your results will <strong>not</strong> be saved. Please take a screenshot.</li>
+                        <li>Take an image of a food that you are eating. This can be a meal, or a specific food .</li>
+                        <li>Our image recognition software will then detect the foods that are seen in your picture.</li>
+                        <li>Then, we check those ingredients against a large database of foods that classify each a great choice, a poor choice, or
+				one that may require more research.</li>
+                        <li>In a simple way, from uploading a picture of your food and the click of a button, you'll know how to do your part to contribute
+				to agricultural sustainability.</li>
+                        <li>In the long term, be sure to keep these habits going! It's important that we start moving in the right direction to ensure
+				that we are doing everything we can to keep our planet green. </li>
                     </ol>
                     <div class = "text-center">
                         <br>
@@ -112,8 +113,17 @@
         
         <div class = "card-body">
             <div class = "card-title">
-              
-            <p>
+                Who We Are
+            </div>
+            
+            <p>Selected Grade 10.<br>Courses taken already: Algebra I, Geometry, and Algebra II.<br>Planned courses: No planned courses.</p>
+            
+            <p> Results:<br>
+            In grade 11 you may take the following courses: Statistics, Trigonometry, PreCalculus.<br>
+            In grade 12 you may take the following courses: AP Statistics, Calculus, AP Calculus AB.
+            </p>
+            <p>Note that courses are not repeatedly printed. For example, if this student chose to take PreCalculus in grade 11, 
+                they would still be able to take Statistics in grade 12. 
             </p>
         </div>
     </div>
