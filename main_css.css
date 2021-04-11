@@ -38,6 +38,7 @@ p {
 }
 .card-title  {
     margin-top: 20px;
+    margin-bottom: 20px;
     font-family: 'Homemade Apple', cursive;
     text-transform: lowercase;
     font-size: 50px;

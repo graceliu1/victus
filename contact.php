@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>DHS Math Course Selection Contact</title>
+    <title>Contact Us</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -70,14 +70,14 @@
     <div class = "jumbotron text-center jumbotron-header" > 
         <br><br><br><br>
         
-        <span class = "jumbotron-content">Instructions</span>
+        <span class = "jumbotron-content">Contact Us</span>
 		<br><br>
 		<a href="index.php" class="btn btn-lg btn-outline-light">Home</a>
     </div>
 
     <!--HOW TO USE-->
     <div class = "container text-center">
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf8-fxCEMtY9WtZiWP4uuvcD4U4Kc55xYcfL9NsTUn7JDvpuA/viewform?embedded=true" width="900" height="931" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfzprm1gtCL91R0EqlnHtYFxpk3GNrIjE0IM-ItlZXjt8B-2g/viewform?embedded=true" width="640" height="769" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
     
     <br>
     </div>

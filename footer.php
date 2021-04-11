@@ -2,16 +2,16 @@
         <div class="container">
             <div class = "row">
             <div class="col-md-5 footer-brand">
-            <a href="#"> <img id="logo" alt="Logo" src="Images/LargeLogo.png" width="60" height="60"> <span style ="max-width: 70%; font-family: 'Crimson Text', serif; font-size: 170%">The Food App</span> </a> 
+            <a href="#"> <img id="logo" alt="Logo" src="Images/LargeLogo.png" width="60" height="60"> <span style ="max-width: 70%; font-family: 'Crimson Text', serif; font-size: 170%">Invictus</span> </a> 
             
-                <p>The Food App is an organization committed to helping consumers
+                <p>Invictus is an organization committed to helping consumers
                     remain aware of what they're eating and the environmental impact
                      of every bite. Our application allows users to instantly check 
                      the environmental cost of food items. To read more about our
                       mission and how we're increasing sustainability, visit the rest 
                       of our website.
                 </p>
-                <p>The Food App, all rights reserved</p>
+                <p>Invictus, all rights reserved</p>
             </div>
             
             <ul class="social list-inline col-md-3">

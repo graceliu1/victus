@@ -1,7 +1,7 @@
 <nav class="navbar flex-wrap navbar-expand-md  navbar-light"> 
     <div class = "container d-flex">
     <!-- Brand --> 
-    <a class="navbar-brand" href="#"> <img id="logo" alt="Logo" src="Images/LargeLogo.png" width="70" height="70"> <span style ="max-width: 70%">the food app<b><em>revolutionize the way you eat</em></b></span> </a> 
+    <a class="navbar-brand" href="#"> <img id="logo" alt="Logo" src="Images/LargeLogo.png" width="70" height="70"> <span style ="max-width: 70%">invictus<b><em>revolutionize the way you eat</em></b></span> </a> 
     
     <!-- Toggler/collapsibe Button -->
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar"> <span class="navbar-toggler-icon"></span> </button>
